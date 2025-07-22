@@ -1,2 +1,2 @@
-# LInux
+# Linux
 Learning about Linux
